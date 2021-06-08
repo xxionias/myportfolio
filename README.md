@@ -11,7 +11,6 @@ Create a content-based recommendation system where the 'content' will be the che
 
 ![](images/bokehplot.png)
 
-## Anomaly Detection
 
 ## [Customer Segmentation](https://github.com/xxionias/CustomerSegmentation.git)
 1. Cohort Analysis and visualization
