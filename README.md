@@ -1,6 +1,4 @@
-# Project Portfolio
-Xinyi's data science project portfolio
-
+# Projects
 ## Visualization
 + [Covid Map Visualization](https://github.com/xxionias/covidmap.git)  
 Generate a heatmap and a choropleth map using **Folium** via accessing the covid data API
