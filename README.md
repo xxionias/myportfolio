@@ -1,3 +1,7 @@
+## Web Scraping and Data Modeling
++ [TowardsDataScience]()
+Web Scraped 
+
 ## Recommendation System
 + [Movie Recommendation by PySpark](https://github.com/xxionias/mystudynotes/tree/master/BigDataWithPySpark/RecommendationEngines)  
 Create a **Collaborative Filtering** recommendation system from 100,000 ratings of 9,000 movies by 600 users  
