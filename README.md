@@ -1,6 +1,8 @@
-## Web Scraping and Data Modeling
-+ [TowardsDataScience]()
-Web Scraped 
+## Data Engineering
++ [TowardsDataScience](https://towardsdatascience.com) Web Scraped and [Data Modeling](https://github.com/xxionias/medium_stories_etl)  
+Applied Data Modeling with Postgres and built an ETL pipeline using Python. [Data](https://github.com/xxionias/webscraping/tree/master/mediumstories) were web scraped and collected in json format.
+
+![](images/tds.png)
 
 ## Recommendation System
 + [Movie Recommendation by PySpark](https://github.com/xxionias/mystudynotes/tree/master/BigDataWithPySpark/RecommendationEngines)  
