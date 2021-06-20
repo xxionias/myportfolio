@@ -1,8 +1,8 @@
 ## Data Engineering
-+ [TowardsDataScience](https://towardsdatascience.com) Web Scraped and [Data Modeling](https://github.com/xxionias/medium_stories_etl)  
-Applied Data Modeling with Postgres and built an ETL pipeline using Python. [Data](https://github.com/xxionias/webscraping/tree/master/mediumstories) were web scraped and collected in json format.
++ [TowardsDataScience Data Analysis App](https://github.com/xxionias/TowardsDataScienceAnalysis)  
+This app connectes to a Postgres database that contains data web scraped from TowardsDataScience and analyzes data about your interests from published articles, including the distribution of the recommendations and responses of the articles and lengths of aricles. After some nice graphs, it tries to recommend an author that contributes the most to the topic that you are interested in.
 
-![](images/tds.png)
+[![](https://j.gifs.com/gpLYrk.gif)](https://youtu.be/ePhAuf2jVTQ)
 
 ## Recommendation System
 + [Movie Recommendation by PySpark](https://github.com/xxionias/mystudynotes/tree/master/BigDataWithPySpark/RecommendationEngines)  
